@@ -3285,3 +3285,8 @@ input, select, textarea {
 			}
 
 	}
+
+		.skills {
+		height: 60px;
+		width: 60px;
+	}
